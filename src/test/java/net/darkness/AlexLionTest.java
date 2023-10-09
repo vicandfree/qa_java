@@ -11,7 +11,6 @@ import static org.junit.Assert.*;
 
 @RunWith(MockitoJUnitRunner.class)
 public class AlexLionTest {
-    @Spy
     private final Feline feline = new Feline();
 
     @Before
