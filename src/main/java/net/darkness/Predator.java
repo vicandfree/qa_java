@@ -1,4 +1,4 @@
-package com.example;
+package net.darkness;
 
 import java.util.List;
 

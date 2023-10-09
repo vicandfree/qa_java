@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+untitled,net.darkness,AlexLion,0,14,0,0,0,5,0,4,0,4
+untitled,net.darkness,Animal,11,16,2,2,3,4,3,2,1,2
+untitled,net.darkness,Cat,0,12,0,0,0,5,0,3,0,3
+untitled,net.darkness,Lion,0,39,0,4,0,11,0,6,0,4
+untitled,net.darkness,Feline,0,15,0,0,0,5,0,5,0,5
+untitled,net.darkness,AlexLion.new HashMap() {...},0,21,0,0,0,5,0,1,0,1
